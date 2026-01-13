@@ -4,10 +4,10 @@ This project presents an AI-enabled secure healthcare communication system that 
 
 **The system integrates:**
 
-• Medical data protection \\
-• AI-based intrusion detection \\
-• Dynamic encryption \\
-• Self-healing secure communication \\
+• Medical data protection \n
+• AI-based intrusion detection \n
+• Dynamic encryption \n
+• Self-healing secure communication \n
 • Interactive cyber-medical dashboard
 
 **🚀 Key Features**
