@@ -1,8 +1,8 @@
-🛡️ AI-Driven Self-Healing Secure Medical Communication System
+**🛡️ AI-Driven Self-Healing Secure Medical Communication System**
 
 This project presents an AI-enabled secure healthcare communication system that dynamically encrypts medical data using AES-128 and automatically regenerates encryption keys when cyber intrusions are detected.
 
-The system integrates:
+**The system integrates:**
 
 • Medical data protection
 • AI-based intrusion detection
@@ -10,7 +10,7 @@ The system integrates:
 • Self-healing secure communication
 • Interactive cyber-medical dashboard
 
-🚀 Key Features
+**🚀 Key Features**
 
 Dynamic AES-128 encryption of medical data
 
@@ -26,7 +26,7 @@ Self-healing secure channel
 
 Real-time interactive dashboard
 
-🧠 System Workflow
+**🧠 System Workflow**
 
 Medical Sensors / Dataset
 → Secure ECDH handshake
@@ -39,7 +39,7 @@ Medical Sensors / Dataset
 → AES decryption
 → Hospital dashboard
 
-📊 Datasets Used
+**📊 Datasets Used**
 
 CICIDS2017 Network Intrusion Dataset
 
@@ -60,3 +60,7 @@ Scikit-learn
 PyCryptodome
 
 Pandas, NumPy
+
+**Novelty**
+
+“Our novelty is that AI does not only detect cyber-attacks. It directly controls encryption. When an intrusion happens, the system automatically changes the encryption keys and heals the secure channel without human intervention.
